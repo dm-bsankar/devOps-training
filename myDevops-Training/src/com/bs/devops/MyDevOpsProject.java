@@ -1,3 +1,4 @@
+package com.bs.devops;
 
 public class MyDevOpsProject {
 
